@@ -50,7 +50,7 @@ Many individuals have difficulty getting loans due to a lack of credit history. 
 - Last phone number change
 
 ## 🔗 Links
-- 📂 [GitHub Repository](https://github.com/ibnurico/-HOME-CREDIT-Final-Task-Data-Scientist)
+- 📂 [GitHub Repository](https://github.com/IbnuRicho/HOME-CREDIT-Final-Task-Data-Scientist)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibnurichokurniawan/)
 
 ---
